@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @munsinator
-- 👀 I’m a 23 year computer science student in Vienna.
 - I'm interested in languages, music and coding and try to improve myself everyday.
 .
 
